@@ -51,12 +51,12 @@ Este projeto está licenciado sob a Licença [Creative Commons Atribuição-Não
 
 ---
 
-###Regras
+### Regras
 Movimento: esquerda/direita, pulo, queda controlada e subida em plataformas.
 
 ---
 
-###Combate:
+### Combate:
 
 Marreta elimina os Porcos Patrulheiros e quebra caixas.
 
@@ -66,7 +66,7 @@ Bomba (obtida no baú) é necessária para derrotar o Porco Rei.
 
 ---
 
-###Interação com Objetos:
+### Interação com Objetos:
 
 Chave obtida ao derrotar Porco Atirador abre o baú.
 
@@ -74,7 +74,7 @@ Baú contém bomba para enfrentar Porco Rei.
 
 ---
 
-###Elementos Narrativos:
+### Elementos Narrativos:
 
 Morcego aparece em áreas internas como guia para caminhos e segredos.
 
@@ -82,7 +82,7 @@ Morcego não aparece em ambientes externos iluminados.
 
 ---
 
-###Condições de Derrota:
+### Condições de Derrota:
 
 Contato com inimigos causa dano.
 Porco Patrulheiro dano parcial.
@@ -98,7 +98,7 @@ Ao sobrar zero corações cheios no Hud, qualquer dano reinicia a fase.
 
 ---
 
-###Entradas para realizar as ações:
+### Entradas para realizar as ações:
 
 
 Andar: 
