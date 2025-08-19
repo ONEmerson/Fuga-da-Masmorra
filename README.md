@@ -48,3 +48,69 @@ Este jogo foi desenvolvido usando o **Construct 3**, uma ferramenta para criaç�
 ### Licença
 
 Este projeto está licenciado sob a Licença [Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt).
+
+---
+
+**Regras**
+Movimento: esquerda/direita, pulo, queda controlada e subida em plataformas.
+
+
+**Combate:**
+
+Marreta elimina os Porcos Patrulheiros e quebra caixas.
+
+O golpe no projétil de canhão devolve-o ao Porco Atirador, derrotando-o.
+
+Bomba (obtida no baú) é necessária para derrotar o Porco Rei.
+
+**Interação com Objetos:**
+
+Chave obtida ao derrotar Porco Atirador abre o baú.
+
+Baú contém bomba para enfrentar Porco Rei.
+
+**Elementos Narrativos:**
+
+Morcego aparece em áreas internas como guia para caminhos e segredos.
+
+Morcego não aparece em ambientes externos iluminados.
+
+**Condições de Derrota:**
+
+Contato com inimigos causa dano.
+Porco Patrulheiro dano parcial.
+Porco Atirador dano parcial.
+Porco Rei, Dano total, Fatal Hit.
+O morcego não é um inimigo apesar de parecer.
+
+Cair fora da área jogável reinicia a fase.
+Cair na água.
+Cair fora do cenário.
+
+Perder toda a vida reinicia a fase.
+Ao sobrar zero corações cheios no Hud, qualquer dano reinicia a fase
+
+---
+
+Entradas para realizar as ações:
+Andar: 
+Para a esquerda
+    Botão do teclado “A”
+Para a direita
+    Botão do teclado “D”
+
+Pular: 
+    Uma ou Duas vezes
+    Botão do teclado “W”
+
+Coletar item:
+    Tocar na Chave (Caso matar o porco atirador)
+    Tocar na Bomba (Caso abrir o baú de item)
+
+
+Atacar: 
+    Com a marreta:
+    Botão do teclado “Espaço”
+
+Com bomba: (caso tiver coletado o item)
+    Botão do teclado “S”
