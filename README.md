@@ -18,10 +18,12 @@ Para rodar o jogo offline sem lentidão, você precisa usar um servidor local. N
     Uma forma rápida de fazer isso no Windows é segurando a tecla **Shift** e clicando com o botão direito do mouse dentro da pasta, escolhendo a opção "Abrir janela do PowerShell aqui".
 4.  No terminal, digite o seguinte comando e pressione **Enter**:
 
-     Linux / Mac:                    Windows:
-        ```bash                         python -m http.server
+     Linux / Mac:
+        ```bash
         python -m http.server
         ```
+
+    Windows: python -m http.server
 
 5.  Abra seu navegador e acesse o endereço `http://localhost:8000`. O jogo será carregado e deverá rodar normalmente.
 
