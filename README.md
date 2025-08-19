@@ -63,17 +63,20 @@ O golpe no projétil de canhão devolve-o ao Porco Atirador, derrotando-o.
 
 Bomba (obtida no baú) é necessária para derrotar o Porco Rei.
 
+
 **Interação com Objetos:**
 
 Chave obtida ao derrotar Porco Atirador abre o baú.
 
 Baú contém bomba para enfrentar Porco Rei.
 
+
 **Elementos Narrativos:**
 
 Morcego aparece em áreas internas como guia para caminhos e segredos.
 
 Morcego não aparece em ambientes externos iluminados.
+
 
 **Condições de Derrota:**
 
@@ -84,24 +87,27 @@ Porco Rei, Dano total, Fatal Hit.
 O morcego não é um inimigo apesar de parecer.
 
 Cair fora da área jogável reinicia a fase.
-Cair na água.
-Cair fora do cenário.
-
+Cair na água reinicia a fase.
+Cair fora do cenário reinicia a fase.
 Perder toda a vida reinicia a fase.
-Ao sobrar zero corações cheios no Hud, qualquer dano reinicia a fase
+Ao sobrar zero corações cheios no Hud, qualquer dano reinicia a fase.
 
 ---
 
 Entradas para realizar as ações:
+
+
 Andar: 
 Para a esquerda
     Botão do teclado “A”
 Para a direita
     Botão do teclado “D”
 
+
 Pular: 
     Uma ou Duas vezes
     Botão do teclado “W”
+
 
 Coletar item:
     Tocar na Chave (Caso matar o porco atirador)
