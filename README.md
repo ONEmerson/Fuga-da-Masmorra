@@ -85,15 +85,23 @@ Morcego não aparece em ambientes externos iluminados.
 ### Condições de Derrota:
 
 Contato com inimigos causa dano.
+
 Porco Patrulheiro dano parcial.
+
 Porco Atirador dano parcial.
+
 Porco Rei, Dano total, Fatal Hit.
+
 O morcego não é um inimigo apesar de parecer.
 
 Cair fora da área jogável reinicia a fase.
+
 Cair na água reinicia a fase.
+
 Cair fora do cenário reinicia a fase.
+
 Perder toda a vida reinicia a fase.
+
 Ao sobrar zero corações cheios no Hud, qualquer dano reinicia a fase.
 
 ---
