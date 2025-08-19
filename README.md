@@ -23,7 +23,7 @@ Para rodar o jogo offline sem lentidão, você precisa usar um servidor local. N
         python -m http.server
         ```
 
-    Windows: python -m http.server
+    Windows: ```python -m http.server```
 
 5.  Abra seu navegador e acesse o endereço `http://localhost:8000`. O jogo será carregado e deverá rodar normalmente.
 
