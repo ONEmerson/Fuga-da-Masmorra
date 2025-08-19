@@ -54,6 +54,7 @@ Este projeto está licenciado sob a Licença [Creative Commons Atribuição-Não
 **Regras**
 Movimento: esquerda/direita, pulo, queda controlada e subida em plataformas.
 
+---
 
 **Combate:**
 
@@ -63,6 +64,7 @@ O golpe no projétil de canhão devolve-o ao Porco Atirador, derrotando-o.
 
 Bomba (obtida no baú) é necessária para derrotar o Porco Rei.
 
+---
 
 **Interação com Objetos:**
 
@@ -70,6 +72,7 @@ Chave obtida ao derrotar Porco Atirador abre o baú.
 
 Baú contém bomba para enfrentar Porco Rei.
 
+---
 
 **Elementos Narrativos:**
 
@@ -77,6 +80,7 @@ Morcego aparece em áreas internas como guia para caminhos e segredos.
 
 Morcego não aparece em ambientes externos iluminados.
 
+---
 
 **Condições de Derrota:**
 
