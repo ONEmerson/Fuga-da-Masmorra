@@ -3,6 +3,8 @@
 ### Como Jogar
 Nos arquivos do jogo logo acima, há um PDF com um tutorial ilustrado caso queria seguir um passo a passo visualmente, é só clicar nele e seguir os passos.
 
+---
+
 Jogar Localmente (no seu computador)
 
 Para rodar o jogo offline sem lentidão, você precisa usar um servidor local. Não se preocupe, é um processo simples de um comando.
