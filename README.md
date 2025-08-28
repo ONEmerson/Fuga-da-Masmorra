@@ -10,6 +10,7 @@ Jogar Localmente (no seu computador)
 Para rodar o jogo offline sem lentidão, você precisa usar um servidor local. Não se preocupe, é um processo simples de um comando.
 
 **Pré-requisito:**
+* Você precisa ter um navegador web instalado no seu computador.
 * Você precisa ter o **Python** instalado no seu computador.
 
 ---
